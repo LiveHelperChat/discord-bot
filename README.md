@@ -7,6 +7,14 @@ This repository helps you set up a Discord bot that can answer questions from do
 * Join our [Discord server](https://discord.gg/YsZXQVh)
 * The help channel is available at [https://discord.com/channels/711499430154731520/1300394139895988244](https://discord.com/channels/711499430154731520/1300394139895988244)
 
+## Prerequisites, Discord bot
+
+Creating a Discord bot is not within the scope of this repository, but here are some resources to help you:
+
+* Watch this tutorial: [How to Create a Discord Bot](https://www.youtube.com/watch?v=Oy5HGvrxM4o)
+* Visit the [Discord Developer Portal](https://discord.com/developers/applications) to create your application and bot
+* Generate an invitation link with appropriate permissions to add the bot to your server
+
 ## Integrating with Live Helper Chat
  
 ### For receiving messages
@@ -35,10 +43,3 @@ This repository helps you set up a Discord bot that can answer questions from do
 * Modify variables in the `.env` file. You'll need to paste the Webhook URL you copied earlier.
 * Build the server with `docker-compose up --build` to test. Once everything is working, run `docker-compose up -d` to run it as a service.
 
-# How to create a bot in Discord?
-
-Creating a Discord bot is not within the scope of this repository, but here are some resources to help you:
-
-* Watch this tutorial: [How to Create a Discord Bot](https://www.youtube.com/watch?v=Oy5HGvrxM4o)
-* Visit the [Discord Developer Portal](https://discord.com/developers/applications) to create your application and bot
-* Generate an invitation link with appropriate permissions to add the bot to your server
