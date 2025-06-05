@@ -2,7 +2,7 @@
 
 This repository helps you set up a Discord bot that can answer questions from documentation, similar to the one in the Live Helper Chat Discord channel.
 
-## Prerequisites
+## Demo
 
 * Join our [Discord server](https://discord.gg/YsZXQVh)
 * The help channel is available at [https://discord.com/channels/711499430154731520/1300394139895988244](https://discord.com/channels/711499430154731520/1300394139895988244)
